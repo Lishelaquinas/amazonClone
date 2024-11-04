@@ -1,1 +1,1 @@
-# amazonClone
+# Amazon landing page clone.
